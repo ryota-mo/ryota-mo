@@ -8,6 +8,7 @@
 - Pythonによる作業自動化 Automation by Python
   - 画像処理 Image processing
   - Microsoft Office (Excel, Word, PowerPoint)
+  - スクレイピング web scraping
 - Webアプリケーション開発 Develop a Web Application
   - AWS (EC2, RDS, S3, EFS, CloudWatch, VPC, Lambda, IAM, Route 53, etc.)
   - Django
