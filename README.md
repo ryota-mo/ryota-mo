@@ -15,6 +15,7 @@
   - MySQL
   - Apache/Nginx
 - 自然言語処理 natural language processing
+- データサイエンス・データ分析 Data Analisys
 
 ### Link
 - https://qiita.com/momomo_rimoto
